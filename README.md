@@ -1,1 +1,14 @@
-# csi
+# CSI
+
+## _Project Information_
+- Performed by IPMLAB at Gyeongsang National University
+- Supported by Korea Construction Disaster-Prevention Research Corporation
+- Duration: 2023.04.01. - 2024.09.30.
+
+## _Contributors_
+- Seonghyeon Moon (Project Director)
+- Seokhee Lee
+- Jeonghwa Hong
+
+## _Collaboration_
+- Korea Authority of Land & Infrastructure Safety
