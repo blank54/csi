@@ -12,3 +12,19 @@
 
 ## _Collaboration_
 - Korea Authority of Land & Infrastructure Safety
+
+- - -
+
+# Directory Structure
+
+data
+- data used in the project
+
+lib
+- libraries of which development has been completed. (.py)
+
+run
+- execution codes that run based on "/lib". (.ipynb)
+
+src
+- working space of developers.
